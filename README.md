@@ -1,2 +1,2 @@
-# OObsidian
+# Obsidian
 Obsidian vault
