@@ -1,33 +1,32 @@
-## Data
-
-|      | Data                        |
-| ---- | --------------------------- |
-| Flag | [![48](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/250px-Flag_of_Austria.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](Austria) |
-| CC   | 6                           |
-| DC   | 8                           |
-| Year | 2005-Present                |
+---
+Year: 2005-Present
+Country: "[[Austria]]"
+CC: 6
+DC: 8
+Previous: Jaguar
+Next: "-"
+---
 ## History
-
-| Year |              Driver              |                Driver                 | Position |  Win  |
-| :--: | :------------------------------: | :-----------------------------------: | :------: | :---: |
-| 2025 |        [[Max Verstappen]]        |     [[Liam Lawson]], Yuki Tsunoda     |    3     | 8+0+0 |
-| 2024 |        [[Max Verstappen]]        |           [[Sergio Perez]]            |    3     |  9+0  |
-| 2023 |        [[Max Verstappen]]        |           [[Sergio Perez]]            |    1     | 19+2  |
-| 2022 |        [[Max Verstappen]]        |           [[Sergio Perez]]            |    1     | 15+2  |
-| 2021 |        [[Max Verstappen]]        |           [[Sergio Perez]]            |    2     | 10+1  |
-| 2020 |        [[Max Verstappen]]        |          [[Alexander Albon]]          |    2     |  2+0  |
-| 2019 |        [[Max Verstappen]]        | [[Pierre Gasly]], [[Alexander Albon]] |    3     | 3+0+0 |
-| 2018 |        [[Max Verstappen]]        |            Daniel Riccardo            |    3     |  2+2  |
-| 2017 |        [[Max Verstappen]]        |            Daniel Riccardo            |    3     |  2+1  |
-| 2016 | Daniil Kvyat, [[Max Verstappen]] |            Daniel Riccardo            |    2     | 0+1+1 |
-| 2015 |           Daniil Kvyat           |            Daniel Riccardo            |    4     |       |
-| 2014 |         Sebastian Vettel         |            Daniel Riccardo            |    2     |  3+0  |
-| 2013 |         Sebastian Vettel         |              Mark Webber              |    1     | 13+0  |
-| 2012 |         Sebastian Vettel         |              Mark Webber              |    1     |  5+1  |
-| 2011 |         Sebastian Vettel         |              Mark Webber              |    1     | 11+1  |
-| 2010 |         Sebastian Vettel         |              Mark Webber              |    1     |  5+4  |
-| 2009 |         Sebastian Vettel         |              Mark Webber              |    2     |  4+2  |
-| 2008 |         David Coulthard          |              Mark Webber              |    7     |       |
-| 2007 |         David Coulthard          |              Mark Webber              |    5     |       |
-| 2006 |         David Coulthard          |   Christian Klien, Robert Doornbos    |    7     |       |
-| 2005 |         David Coulthard          |  Christian Klien, Vitantonio Liuzzi   |    7     |       |
+| Year |                            Driver                             |                 Position                 |  Win  |
+| :--: | :-----------------------------------------------------------: | :--------------------------------------: | :---: |
+| 2025 |     [[Liam Lawson]]<br>Yuki Tsunoda<br>[[Max Verstappen]]     |                   3/10                   | 8/24  |
+| 2024 |            [[Sergio Pérez]]<br>[[Max Verstappen]]             |                   3/10                   | 9/24  |
+| 2023 |            [[Sergio Pérez]]<br>[[Max Verstappen]]             | <span style='color: yellow;'>1</span>/10 | 21/22 |
+| 2022 |            [[Sergio Pérez]]<br>[[Max Verstappen]]             | <span style='color: yellow;'>1</span>/10 | 17/22 |
+| 2021 |            [[Sergio Pérez]]<br>[[Max Verstappen]]             |                   2/10                   | 11/22 |
+| 2020 |           [[Alexander Albon]]<br>[[Max Verstappen]]           |                   2/10                   | 2/17  |
+| 2019 | [[Pierre Gasly]]<br>[[Alexander Albon]]<br>[[Max Verstappen]] |                   3/10                   | 3/21  |
+| 2018 |            Daniel Ricciardo<br>[[Max Verstappen]]             |                   3/11                   | 4/21  |
+| 2017 |            Daniel Ricciardo<br>[[Max Verstappen]]             |                   3/10                   | 3/20  |
+| 2016 |    Daniil Kvyat<br>Daniel Ricciardo<br>[[Max Verstappen]]     |                   2/11                   | 2/21  |
+| 2015 |               Daniil Kvyat<br>Daniel Ricciardo                |                   4/10                   | 0/19  |
+| 2014 |             Daniel Ricciardo<br>Sebastian Vettel              |                   2/11                   | 3/19  |
+| 2013 |                Sebastian Vettel<br>Mark Webber                | <span style='color: yellow;'>1</span>/11 | 13/19 |
+| 2012 |                Sebastian Vettel<br>Mark Webber                | <span style='color: yellow;'>1</span>/12 | 6/20  |
+| 2011 |                Sebastian Vettel<br>Mark Webber                | <span style='color: yellow;'>1</span>/12 | 12/19 |
+| 2010 |                Sebastian Vettel<br>Mark Webber                | <span style='color: yellow;'>1</span>/12 | 9/19  |
+| 2009 |                Sebastian Vettel<br>Mark Webber                |                   2/10                   | 6/17  |
+| 2008 |                David Coulthard<br>Mark Webber                 |                   7/11                   | 0/18  |
+| 2007 |                David Coulthard<br>Mark Webber                 |                   5/11                   | 0/17  |
+| 2006 |     David Coulthard<br>Christian Klien<br>Robert Doornbos     |                   7/11                   | 0/18  |
+| 2005 |    David Coulthard<br>Christian Klien<br>Vitantonio Liuzzi    |                   7/10                   | 0/19  |

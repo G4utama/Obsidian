@@ -1,10 +1,10 @@
 ## Data
 
-|      | Data                            |
-| ---- | ------------------------------- |
+|      | Data                                                                                                                                                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Flag | [![48](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/250px-Flag_of_Australia_%28converted%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](Australia) |
-| DC   | 0                               |
-| Year | 2023-Present                    |
+| DC   | 0                                                                                                                                                                                                                                        |
+| Year | 2023-Present                                                                                                                                                                                                                             |
 ## History
 
 | Year |    Team     | Position | Win |

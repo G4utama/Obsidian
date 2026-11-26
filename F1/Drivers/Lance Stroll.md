@@ -1,10 +1,10 @@
 ## Data
 
-|      | Data                      |
-| ---- | ------------------------- |
+|      | Data                                                                                                                                                                                                                        |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Flag | [![48](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/250px-Flag_of_Canada_%28Pantone%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](Canada) |
-| DC   | 0                         |
-| Year | 2017-Present              |
+| DC   | 0                                                                                                                                                                                                                           |
+| Year | 2017-Present                                                                                                                                                                                                                |
 ## History
 
 | Year |       Team       | Position | Win |
